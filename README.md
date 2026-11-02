@@ -4,6 +4,7 @@
 簡単に行を階層構造にしたり、ボード機能でメモ同士の関係を整理したりと多様な機能を備えています。
 
 **開く:** https://noneedsgames-ui.github.io/worklog-memo/
+**プライバシーポリシー:** https://noneedsgames-ui.github.io/worklog-memo/privacy.html
 
 - 入力したものはブラウザにのみ保存します。
 - ただし、設定の「ドライブで同期」で Google アカウントにログインしたときは、あなたの Google ドライブの、このアプリ専用の隠しフォルダにも保存し、Android アプリ版や別の端末と同じデータを使えます。
